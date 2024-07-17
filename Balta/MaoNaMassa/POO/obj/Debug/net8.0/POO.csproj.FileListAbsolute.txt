@@ -1,0 +1,14 @@
+C:\Balta\MaoNaMassa\POO\bin\Debug\net8.0\POO.exe
+C:\Balta\MaoNaMassa\POO\bin\Debug\net8.0\POO.deps.json
+C:\Balta\MaoNaMassa\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+C:\Balta\MaoNaMassa\POO\bin\Debug\net8.0\POO.dll
+C:\Balta\MaoNaMassa\POO\bin\Debug\net8.0\POO.pdb
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\POO.dll
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\refint\POO.dll
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\POO.pdb
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+C:\Balta\MaoNaMassa\POO\obj\Debug\net8.0\ref\POO.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Api", "Fina.Api\Fina.Api.csproj", "{B7BDE4AD-4003-4323-B934-DE0A795616DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Core", "Fina.Core\Fina.Core.csproj", "{544E1314-3646-4838-99EF-DC62E88C213A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{74724B53-1E6A-4FE7-9B62-8D3483CA5454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BDE4AD-4003-4323-B934-DE0A795616DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BDE4AD-4003-4323-B934-DE0A795616DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BDE4AD-4003-4323-B934-DE0A795616DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BDE4AD-4003-4323-B934-DE0A795616DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544E1314-3646-4838-99EF-DC62E88C213A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544E1314-3646-4838-99EF-DC62E88C213A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544E1314-3646-4838-99EF-DC62E88C213A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544E1314-3646-4838-99EF-DC62E88C213A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74724B53-1E6A-4FE7-9B62-8D3483CA5454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74724B53-1E6A-4FE7-9B62-8D3483CA5454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74724B53-1E6A-4FE7-9B62-8D3483CA5454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74724B53-1E6A-4FE7-9B62-8D3483CA5454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9673338C-B4A4-4C4F-842D-973AAF68E184}
+	EndGlobalSection
+EndGlobal

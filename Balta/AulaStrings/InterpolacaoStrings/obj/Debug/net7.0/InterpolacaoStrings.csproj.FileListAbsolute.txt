@@ -1,0 +1,14 @@
+C:\Balta\AulaStrings\InterpolacaoStrings\bin\Debug\net7.0\InterpolacaoStrings.exe
+C:\Balta\AulaStrings\InterpolacaoStrings\bin\Debug\net7.0\InterpolacaoStrings.deps.json
+C:\Balta\AulaStrings\InterpolacaoStrings\bin\Debug\net7.0\InterpolacaoStrings.runtimeconfig.json
+C:\Balta\AulaStrings\InterpolacaoStrings\bin\Debug\net7.0\InterpolacaoStrings.dll
+C:\Balta\AulaStrings\InterpolacaoStrings\bin\Debug\net7.0\InterpolacaoStrings.pdb
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\InterpolacaoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\InterpolacaoStrings.AssemblyInfoInputs.cache
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\InterpolacaoStrings.AssemblyInfo.cs
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\InterpolacaoStrings.csproj.CoreCompileInputs.cache
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\InterpolacaoStrings.dll
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\refint\InterpolacaoStrings.dll
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\InterpolacaoStrings.pdb
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\InterpolacaoStrings.genruntimeconfig.cache
+C:\Balta\AulaStrings\InterpolacaoStrings\obj\Debug\net7.0\ref\InterpolacaoStrings.dll

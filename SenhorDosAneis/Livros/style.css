@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'RingBearer';
+    src: url('Fonte/RingbearerMedium-51mgZ.ttf') format('truetype');
+}
+
+
+body{
+    background-color: #FFF5EE;
+    font-family: RingBearer;
+    font-size: small;
+    letter-spacing: 0,5px;
+    }
+
+nav {
+    display: flex;
+    position: static;
+    width: 100%;
+    flex-direction: row;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav>* {
+    margin-right: 50px;
+}
+
+nav img {
+    height: 100px;
+    width: 100px;
+}
+
+nav a {
+    color: white;
+}
+.imagem-capa img{
+    width: 1456.8px;
+    height: 454px;
+}
+.texto-saga{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 25px;    
+    height: 250px;
+    
+
+}
+.texto-saga p{
+    width: 1200px;
+    height: 200px;    
+    
+    text-align: justify;
+    font-size: small;
+    }
+
+.texto-saga h2{
+    font-size: large;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom: 25px;    
+}
+.texto-outras-obras{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.texto-outras-obras h2{
+    font-size: large;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom: 50px;    
+}
+.livros{
+    display: flex;    
+    
+    width: max-content;    
+}
+h5{
+    letter-spacing: 2px;
+}
+.livros > *{
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+align-content: stretch;
+}
+.livros div{
+    align-content: stretch;
+}
+.conteudo{
+    height: 233px;
+    width: auto;
+    margin-right: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+.conteudo a{
+    height: 233px;
+    width: 150px;
+}
+.imagens-livros{
+    height: 233px;
+    width: 150px;
+    padding-right: 10px;
+}
+.texto-livros{
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.texto-livros p{
+    text-align: justify;
+}
+.texto-livros h5{
+    margin-bottom: 40px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer div {
+    margin-right: 20px;
+
+}
+
+footer div p {
+    color: white;
+    text-align: right;
+}
+.texto-video{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+}
+.texto-video p{
+    
+    margin-right: 5px;    
+    letter-spacing: 1px;
+    width:692;
+    height: 390;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.t1{
+    font-size: small;
+    margin-top: 25px;
+}
+.t2{
+    margin-top: 10px;
+    font-size: medium;
+}
+.t3{
+    font-size: medium;
+}
+.t4{
+    font-size: medium;
+    margin-top: 50px;
+}
+.t5{
+    margin-top: 50px;
+    font-size: small;    
+}
+.t6{
+    margin-top: 25px;
+}
+.t7{
+    font-size: medium;
+    margin-top: 45px;
+}

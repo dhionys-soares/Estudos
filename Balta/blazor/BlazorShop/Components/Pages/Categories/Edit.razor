@@ -1,0 +1,48 @@
+﻿@page "/categories/edit/{id:int}"
+@rendermode InteractiveServer
+@inject ApplicationDbContext Context
+@inject NavigationManager Navigation
+@attribute [Authorize]
+
+@if (Category is null)
+{
+    <p><em>Categoria não encontrada</em></p>
+}
+else
+{
+    <h1>@Category.Title (@Category.Id)</h1>
+
+    <EditForm Model="@Category" OnValidSubmit="OnValidSubmit">
+
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <label class="form-label">Nome da Categoria</label>
+            <InputText class="form-control" @bind-Value="Category.Title" />
+        </div>
+
+        <button type="submit" class="btn btn-success">Salvar</button>
+        <a class="btn btn-light" href="/categories">Cancelar</a>
+
+    </EditForm>
+}
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    public Category? Category { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Category = await Context.Categories.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+    }
+
+    public async Task OnValidSubmit()
+    {
+        Context.Categories.Update(Category);
+        await Context.SaveChangesAsync();
+        Navigation.NavigateTo("categories");
+    }
+}

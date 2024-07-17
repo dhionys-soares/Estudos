@@ -1,0 +1,38 @@
+﻿@page "/products/delete/{id:int}"
+@inject ApplicationDbContext Context
+@inject NavigationManager Navigation
+@rendermode InteractiveServer
+@attribute [Authorize]
+
+<h1>@Product.Title (@Product.Id)</h1>
+
+<EditForm Model="@Product" OnValidSubmit="OnValidSubmit">
+
+    <div class="mb-3">
+        <label class="form-label">Nome da Categoria</label>
+        <InputText readonly class="form-control" @bind-Value="Product.Title" />
+    </div>
+
+    <button type="submit" class="btn btn-danger">Deletar</button>
+    <a class="btn btn-light" href="/products">Cancelar</a>
+
+</EditForm>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    public Product? Product { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Product = await Context.Products.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+    }
+
+    public async Task OnValidSubmit()
+    {
+        Context.Products.Remove(Product);
+        await Context.SaveChangesAsync();
+        Navigation.NavigateTo("products");
+    }
+}

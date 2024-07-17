@@ -1,0 +1,19 @@
+footer {
+    background-color: #21251F;
+    height: 400px;
+    padding: 50px;
+    img {
+        width: 250px;
+    }
+    .lista {
+        font-family: 'KoHo', sans-serif;
+        direction: rtl;
+        color: #FFF3CA;
+    }
+    ul {
+        list-style-type: none;
+    }
+    ul li {
+        padding: 10px;
+    }
+}

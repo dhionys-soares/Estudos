@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Balta\\blazor\\Blazing_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE2D48-06FD-405B-A7EC-A016381E364F}|Blazing_Shop.csproj|c:\\balta\\blazor\\blazing_shop\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABE2D48-06FD-405B-A7EC-A016381E364F}|Blazing_Shop.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE2D48-06FD-405B-A7EC-A016381E364F}|Blazing_Shop.csproj|c:\\balta\\blazor\\blazing_shop\\pages\\products\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABE2D48-06FD-405B-A7EC-A016381E364F}|Blazing_Shop.csproj|solutionrelative:pages\\products\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE2D48-06FD-405B-A7EC-A016381E364F}|Blazing_Shop.csproj|c:\\balta\\blazor\\blazing_shop\\pages\\products\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABE2D48-06FD-405B-A7EC-A016381E364F}|Blazing_Shop.csproj|solutionrelative:pages\\products\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Balta\\blazor\\Blazing_Shop\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Balta\\blazor\\Blazing_Shop\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T20:55:18.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Balta\\blazor\\Blazing_Shop\\Pages\\Products\\Delete.razor",
+              "RelativeDocumentMoniker": "Pages\\Products\\Delete.razor",
+              "ToolTip": "C:\\Balta\\blazor\\Blazing_Shop\\Pages\\Products\\Delete.razor",
+              "RelativeToolTip": "Pages\\Products\\Delete.razor",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T20:54:37.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Balta\\blazor\\Blazing_Shop\\Pages\\Products\\Edit.razor",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.razor",
+              "ToolTip": "C:\\Balta\\blazor\\Blazing_Shop\\Pages\\Products\\Edit.razor",
+              "RelativeToolTip": "Pages\\Products\\Edit.razor",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T20:26:47.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

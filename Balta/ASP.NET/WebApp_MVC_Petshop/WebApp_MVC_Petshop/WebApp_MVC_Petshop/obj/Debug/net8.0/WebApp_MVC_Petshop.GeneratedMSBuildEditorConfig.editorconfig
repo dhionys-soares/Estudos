@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp_MVC_Petshop
+build_property.RootNamespace = WebApp_MVC_Petshop
+build_property.ProjectDir = C:\Balta\ASP.NET\WebApp_MVC_Petshop\WebApp_MVC_Petshop\WebApp_MVC_Petshop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Balta\ASP.NET\WebApp_MVC_Petshop\WebApp_MVC_Petshop\WebApp_MVC_Petshop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/BuscarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxCdXNjYXJDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/BuscarPet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxCdXNjYXJQZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/CreatePet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGVQZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/Getall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxHZXRhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/GetAllPets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxHZXRBbGxQZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/GetClienteById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxHZXRDbGllbnRlQnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Cliente/GetPets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxHZXRQZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Balta/ASP.NET/WebApp_MVC_Petshop/WebApp_MVC_Petshop/WebApp_MVC_Petshop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sw0d489pxr

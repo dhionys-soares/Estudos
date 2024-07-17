@@ -1,0 +1,14 @@
+C:\Balta\Moedas\bin\Debug\net8.0\Moedas.exe
+C:\Balta\Moedas\bin\Debug\net8.0\Moedas.deps.json
+C:\Balta\Moedas\bin\Debug\net8.0\Moedas.runtimeconfig.json
+C:\Balta\Moedas\bin\Debug\net8.0\Moedas.dll
+C:\Balta\Moedas\bin\Debug\net8.0\Moedas.pdb
+C:\Balta\Moedas\obj\Debug\net8.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfoInputs.cache
+C:\Balta\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfo.cs
+C:\Balta\Moedas\obj\Debug\net8.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Balta\Moedas\obj\Debug\net8.0\Moedas.dll
+C:\Balta\Moedas\obj\Debug\net8.0\refint\Moedas.dll
+C:\Balta\Moedas\obj\Debug\net8.0\Moedas.pdb
+C:\Balta\Moedas\obj\Debug\net8.0\Moedas.genruntimeconfig.cache
+C:\Balta\Moedas\obj\Debug\net8.0\ref\Moedas.dll

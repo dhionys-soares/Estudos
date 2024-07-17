@@ -1,0 +1,14 @@
+C:\Balta\AulaStrings\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.exe
+C:\Balta\AulaStrings\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.deps.json
+C:\Balta\AulaStrings\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.runtimeconfig.json
+C:\Balta\AulaStrings\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.dll
+C:\Balta\AulaStrings\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.pdb
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.AssemblyInfoInputs.cache
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.AssemblyInfo.cs
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.csproj.CoreCompileInputs.cache
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.dll
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\refint\ComparacaoStrings.dll
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.pdb
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.genruntimeconfig.cache
+C:\Balta\AulaStrings\ComparacaoStrings\obj\Debug\net7.0\ref\ComparacaoStrings.dll

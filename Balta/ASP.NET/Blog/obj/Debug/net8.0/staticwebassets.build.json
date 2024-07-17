@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VSWHS0baDw9LMLMeAuSbnk3ALt22boWsZjwsGg1NDcg=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "C:\\Balta\\ASP.NET\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Balta\\ASP.NET\\Blog\\wwwroot\\Images\\656f4bd0-094d-4a91-952e-5a354579e1d4.jpg",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Balta\\ASP.NET\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "Images/656f4bd0-094d-4a91-952e-5a354579e1d4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\656f4bd0-094d-4a91-952e-5a354579e1d4.jpg"
+    }
+  ]
+}

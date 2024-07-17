@@ -1,0 +1,14 @@
+C:\Balta\AulaStrings\Guid\bin\Debug\net7.0\Guid.exe
+C:\Balta\AulaStrings\Guid\bin\Debug\net7.0\Guid.deps.json
+C:\Balta\AulaStrings\Guid\bin\Debug\net7.0\Guid.runtimeconfig.json
+C:\Balta\AulaStrings\Guid\bin\Debug\net7.0\Guid.dll
+C:\Balta\AulaStrings\Guid\bin\Debug\net7.0\Guid.pdb
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\Guid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\Guid.AssemblyInfoInputs.cache
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\Guid.AssemblyInfo.cs
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\Guid.csproj.CoreCompileInputs.cache
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\Guid.dll
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\refint\Guid.dll
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\Guid.pdb
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\Guid.genruntimeconfig.cache
+C:\Balta\AulaStrings\Guid\obj\Debug\net7.0\ref\Guid.dll

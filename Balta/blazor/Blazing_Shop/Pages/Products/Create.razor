@@ -1,0 +1,70 @@
+﻿@page "/products/create"
+@using Microsoft.AspNetCore.Components
+@inject AppDbContext _context
+@inject NavigationManager _navigationManager
+
+<h1>New Product</h1>
+
+<EditForm Model="_model" OnValidSubmit="@HandleSubmitAsync">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label for="Title" class="form-label">Title</label>
+        <InputText class="form-control" typeof="text" id="Title" @bind-Value="_model.Titulo"></InputText>
+    </div>
+
+    <div class="mb-3">
+        <label for="Price" class="form-label">Price</label>
+        <InputNumber class="form-control" typeof="number" id="Price" @bind-Value="_model.Price"></InputNumber>
+    </div>
+
+    <div class="mb-3">
+        <label for="CategoryId" class="form-label">CategoryId</label>
+        <InputSelect class="form-control" id="CategoryId" @bind-Value="_model.CategoryId">
+            @foreach (var category in _categories)
+            {
+                <option value="@category.Id">
+                    @category.Title
+                </option>
+            }
+        </InputSelect>
+    </div>
+
+    @if (!string.IsNullOrEmpty(_errorMessage))
+    {
+        <div>
+            @_errorMessage
+        </div>
+    }
+
+    <button class="btn btn-success" type="submit">Save</button>
+</EditForm>
+
+@code {
+    public Product _model = new();
+    private const string V = "/";
+    public List<Category> _categories = new();
+    public string? _errorMessage = null;
+
+    public async Task HandleSubmitAsync()
+    {
+        try
+        {
+            await _context.Products.AddAsync(_model);
+            await _context.SaveChangesAsync();
+            _navigationManager.NavigateTo("/");
+        }
+        catch(Exception e)
+        {
+            _errorMessage = "Falha ao persistir os dados";
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        _categories = await _context.Categories.AsNoTracking().ToListAsync();
+        _model.CategoryId = _categories[0].Id;
+    }
+}
+

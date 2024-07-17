@@ -1,0 +1,14 @@
+C:\Balta\MeuExercícioOOP\bin\Debug\net8.0\MeuExercícioOOP.exe
+C:\Balta\MeuExercícioOOP\bin\Debug\net8.0\MeuExercícioOOP.deps.json
+C:\Balta\MeuExercícioOOP\bin\Debug\net8.0\MeuExercícioOOP.runtimeconfig.json
+C:\Balta\MeuExercícioOOP\bin\Debug\net8.0\MeuExercícioOOP.dll
+C:\Balta\MeuExercícioOOP\bin\Debug\net8.0\MeuExercícioOOP.pdb
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\MeuExercícioOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\MeuExercícioOOP.AssemblyInfoInputs.cache
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\MeuExercícioOOP.AssemblyInfo.cs
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\MeuExercícioOOP.csproj.CoreCompileInputs.cache
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\MeuExercícioOOP.dll
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\refint\MeuExercícioOOP.dll
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\MeuExercícioOOP.pdb
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\MeuExercícioOOP.genruntimeconfig.cache
+C:\Balta\MeuExercícioOOP\obj\Debug\net8.0\ref\MeuExercícioOOP.dll

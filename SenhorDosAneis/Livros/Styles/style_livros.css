@@ -1,0 +1,448 @@
+/* @font-face {
+    font-family: 'RingBearer';
+    src: url('../Fonte/RingbearerMedium-51mgZ.ttf') format('truetype');
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@100;700&display=swap');
+
+/* * {
+    font-family: RingBearer;
+} */
+
+body {
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(8, 12.5%);
+    grid-template-rows: 12.5% 30% 5% auto auto 10%;
+    grid-template-areas:
+        "enu enu enu enu enu enu enu enu"
+        "img-principal img-principal img-principal img-principal img-principal img-principal img-principal img-principal"
+        ". . . titulo titulo . . ."
+        "texto texto texto texto video video video video"
+        "texto texto texto texto video video video video"
+        "rodape rodape rodape rodape rodape rodape rodape rodape"
+}
+
+.navbarMenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFBF0;
+    height: 200px;
+    position: fixed;
+    width: 100%;
+}
+
+.navbarMenu a {
+    font-family: "KoHo", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.navbarMenu a, .navLogo {
+    color: black;
+    padding: 30px 80px;
+    text-decoration: none;
+}
+
+.dropdown a {
+    display: inline-block;
+}
+
+.dropdown:hover .drop-content {
+    display: block;
+}
+
+ .dropdown:hover .dropbtn {
+    color: #aabea2;
+}
+
+ .drop-content {
+    width: 200px;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    display: none;
+    background-color: #aabea2;
+}
+
+ .drop-content a {
+    border: 1px solid #fffbf035;
+    display: block;
+    padding: 40px;
+    color: black;
+}
+
+ .drop-content a:hover {
+    background-color: #21251F;
+    color: white;
+}
+
+.menu {    
+    grid-area: enu;
+    background-color: #FFFBF0;
+    display: grid;
+    grid-template-columns: repeat(8, 12.5%);
+    grid-template-rows: 100%;
+    grid-template-areas: "imagem-arvore-topo pagina-inicial pagina-inicial autor personagens personagens livros extras";
+    align-items: center;
+    justify-items: center;
+    position: fixed;
+    width: 100%;
+}
+.menu a{
+    color: black;
+    font-family: 'KoHo', sans-serif;
+    font-size: large;
+}
+
+#imagem_arvore_topo {
+    grid-area: imagem-arvore-topo;
+    height: 100%;
+}
+
+#pagina_inicial {
+    grid-area: pagina-inicial;    
+}
+
+#autor {
+    grid-area: autor;
+}
+
+#personagens {
+    grid-area: personagens;
+}
+
+#livros {
+    grid-area: livros;
+}
+
+#extras {
+    grid-area: extras;
+}
+
+.imagem_principal{
+    grid-area: img-principal;
+    width: 100%;
+    height: 100%;
+}
+
+.titulo {
+    grid-area: titulo;
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+    margin: 0;
+    width: max-content;
+    height: max-content;
+    font-family: "Kantumruy Pro", sans-serif;
+}
+
+.texto {
+    align-self: center;
+    height: auto;
+    grid-area: texto;
+    text-align: justify;
+    font-size: medium;
+    margin: 0;
+    padding: 2.5% 5% 2.5% 5%;
+    font-family: "Kantumrey Pro", sans-serif;
+}
+
+.video {
+    grid-area: video;
+    justify-self: center;
+    align-self: center;
+}
+
+.rodape {
+    grid-area: rodape;
+    background-color: #21251F;
+    display: grid;
+    grid-template-columns: repeat(8, 12.5%);
+    grid-template-rows: 80% 20%;
+    grid-template-areas:
+        "imagem-arvore-rodape . . . . . nomes-grupo-rodape1 nomes-grupo-rodape2" 
+        "imagem-arvore-rodape rights rights rights rights rights nomes-grupo-rodape1 nomes-grupo-rodape2";
+    align-items: center;
+    justify-items: center;
+}
+#rights{
+grid-area: rights;
+display: flex;
+flex-flow: row wrap;
+justify-items: center;
+}
+
+#projeto{
+    color: white;
+    font-size: smaller;
+    margin-right: 10px;
+    font-family: "Kantumruy Pro", sans-serif;
+}
+
+#data{
+    color: white;
+    font-size: smaller;
+    font-family: "Kantumruy Pro", sans-serif;
+    }
+
+#imagem_arvore_rodape {
+    grid-area: imagem-arvore-rodape;
+    height: 100%;
+}
+
+#nomes_grupo_rodape1 {
+    grid-area: nomes-grupo-rodape1;
+    color: white;
+    font-size: smaller;
+    font-family: 'KoHo', sans-serif;
+}
+#nomes_grupo_rodape2 {
+    grid-area: nomes-grupo-rodape2;
+    color: white;
+    font-size: smaller;
+    margin-right: 5px;
+    font-family: 'KoHo', sans-serif;
+}
+
+@media (max-width: 1279px) {
+
+    .container {
+        grid-template-rows: 12.5% 30% 5% auto auto auto 10%;
+        grid-template-areas:
+            "enu enu enu enu enu enu enu enu"
+            "img-principal img-principal img-principal img-principal img-principal img-principal img-principal img-principal"
+            ". . . titulo titulo . . ."
+            "texto texto texto texto texto texto texto texto"
+            "texto texto texto texto texto texto texto texto"
+            "video video video video video video video video"
+            "rodape rodape rodape rodape rodape rodape rodape rodape"
+    }
+
+    .navbarMenu img {
+        width: 80px;
+    }
+
+    .navbarMenu a {
+        padding: 20px;
+    }
+
+    .drop-content {
+        width: 140px;
+    }
+
+    .drop-content a {
+        font-size: 16px;
+        padding: 30px;
+    }
+
+    .titulo{
+        font-size: large;   
+    }
+
+    .texto {
+        font-size: medium;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-rows: 10% 25% 5% 30% 20% 10%;
+        grid-template-areas:
+            "enu enu enu enu enu enu enu enu"
+            "img-principal img-principal img-principal img-principal img-principal img-principal img-principal img-principal"
+            ". . . titulo titulo . . ."
+            "texto texto texto texto texto texto texto texto"
+            "video video video video video video video video"
+            "rodape rodape rodape rodape rodape rodape rodape rodape"
+    }
+
+    .navbarMenu {
+        height: 100px;
+        align-items: center;
+        font-size: 12px;
+    }
+    .navLogo {
+        width: 0%;
+        display: none;
+    }
+
+    .navbarMenu a {
+        padding: 10px;
+    }
+
+    .drop-content {
+        width: 80px;
+    }
+
+    .drop-content a {
+        padding: 15px;
+    }
+
+    .menu a{
+        font-size: medium;
+    }
+
+    #imagem_arvore_topo {
+        height: 80%;
+    }
+
+    .titulo{
+        font-size: medium;   
+    }
+
+    .texto {
+        font-size: smaller;
+    }
+
+    .video > *{
+        width: 100%;
+        height: 100%;
+    }
+
+    .rodape {
+        grid-template-areas:
+            "imagem-arvore-rodape rights rights rights rights rights nomes-grupo-rodape1 nomes-grupo-rodape2" 
+            "imagem-arvore-rodape rights rights rights rights rights nomes-grupo-rodape1 nomes-grupo-rodape2";
+    }
+
+    #rights{
+        flex-flow: row wrap;
+        justify-items: center;
+        }
+
+    #projeto{        
+        font-size: 0.7em;
+    }
+    
+    #data{
+        font-size: 0.7em;
+        }
+
+        #nomes_grupo_rodape1 {
+        font-size: 0.7em;
+        }
+        #nomes_grupo_rodape2 {
+        font-size: 0.7em;
+        }
+}
+
+@media (max-width: 480px) {
+    * {
+        font-size: smaller;
+    }
+
+    .livros1 {
+        grid-template-columns: repeat(4, 25%);
+        grid-template-rows: repeat(2, 50%);
+        grid-template-areas:
+            "imagem-livro-hobbit imagem-livro-sociedadeanel imagem-livro-duastorres imagem-livro-retornorei"
+            "texto-livro-hobbit texto-livro-sociedadeanel texto-livro-duastorres texto-livro-retornorei";
+    }
+
+    .livros2 {
+        grid-template-columns: repeat(4, 25%);
+        grid-template-rows: repeat(2, 50%);
+        grid-template-areas:
+            "imagem-livro-contosinacabados imagem-livro-silmarillion imagem-livro-filhoshurin imagem-livro-quedanumenor"
+            "texto-livro-contosinacabados texto-livro-silmarillion texto-livro-filhoshurin texto-livro-quedanumenor";
+    }
+    
+    .texto {
+        font-size: 0.1em;
+    }
+
+    #imagem_arvore_topo {
+        height: 10%;
+    }
+
+    #imagem_livro_hobbit {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_hobbit > *{
+        font-size: 0.8em;
+    }
+    
+    #imagem_livro_sociedadeanel {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_sociedadeanel > *{
+        font-size: 0.8em;
+    }
+    
+    #imagem_livro_duastorres {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_duastorres > *{
+        font-size: 0.8em;
+    }
+    
+    #imagem_livro_retornorei {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_retornorei > *{
+        font-size: 0.8em;
+    }
+
+    #imagem_livro_contosinacabados {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_contosinacabados > *{
+        font-size: 0.8em;
+    }
+    
+    #imagem_livro_silmarillion {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_silmarillion > *{
+        font-size: 0.8em;
+    }
+    
+    #imagem_livro_filhoshurin {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_filhoshurin > *{
+        font-size: 0.8em;
+    }
+    
+    #imagem_livro_quedanumenor {
+        width: 100px;
+        height: 155px;
+    }
+    
+    #texto_livro_quedanumenor > *{
+        font-size: 0.8em;
+    }
+
+    
+
+    #nomes_grupo_rodape1 > *{
+        font-size: 0.8em;
+        margin-right: 5px;
+    }
+    #nomes_grupo_rodape2 > *{
+        font-size: 0.8em;
+    }
+    #rights > *{
+        font-size: 0.6em;
+        }
+}

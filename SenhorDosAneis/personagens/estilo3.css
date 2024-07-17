@@ -1,0 +1,235 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    font-family: 'KoHo', sans-serif;
+}
+
+header {
+    background-color: #EAFF95;
+    padding: 50px 0;
+    background-color: #A7BA9C;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+h1 {
+    display: inline-block;
+}
+
+header h1, h2, h3 {
+    padding-bottom: 1em;
+}
+
+.container_nav {
+    background-color: #FFFBF0;
+}
+
+.cards p {
+    padding: 20px;
+}
+
+.navbar {
+    text-transform: uppercase;
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 194px;
+    a {
+        color: #0E0E0E;
+        padding: 1%;
+        text-decoration: none;
+        font-family: "KoHo", sans-serif;
+        font-weight: 600;
+    }
+    a:hover {
+        color: #A7BA9C;
+        text-decoration: underline 2px green;
+    }
+}
+
+.navbar .logo {}
+
+.header-container {
+    text-transform: uppercase;
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* height;
+	*/
+    background-color: #A7BA9C;
+    a {
+        color: #0E0E0E;
+        padding: 1%;
+        text-decoration: none;
+        font-family: "KoHo", sans-serif;
+        font-weight: 600;
+    }
+    a:hover {
+        color: #A7BA9C;
+        text-decoration: underline 2px green;
+    }
+}
+
+.char-img img {
+    height: 300px;
+    margin: -50px 0px;
+    border-radius: 9px;
+}
+
+main {
+    background-color: whitesmoke;
+}
+
+.char-img {
+    width: 15%;
+    background-color: cadetblue;
+    height: 200px;
+}
+
+.char-info {
+    width: 68%;
+    height: 200px;
+}
+
+.container {
+    width: 100%;
+}
+
+.container2 {
+    display: flex;
+}
+
+article {
+    width: 70%;
+}
+
+aside {
+    width: 30%;
+}
+
+article, aside {
+    height: 600px;
+}
+
+.quotesection {
+    background-color: beige;
+}
+
+.citacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 60px 200px;
+    width: 1440px;
+}
+
+.container {
+    width: 1440px;
+}
+
+.personagens h1 {
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+
+.personagens h2 {
+    padding: 5px;
+}
+
+.box {
+    gap: 10%;
+    /* background-color: aquamarine; */
+    padding-right: 10px;
+    padding-bottom: 40px;
+}
+
+.box p {
+    /* max-width: 250px; */
+}
+
+.cards {
+    display: flex;
+    align-content: space-around;
+    justify-content: space-between;
+}
+
+.box2 {
+    /* gap: 10%;
+	align-content: space-around;
+	display: flex;
+	*/
+    text-align: end;
+}
+
+.credit {
+    border-top: 2px black solid;
+    text-transform: uppercase;
+    padding: 20px 10px;
+}
+
+.botao {
+    background-color: #A7BA9C;
+    text-decoration: none;
+    color: black;
+    padding: 15px 50px;
+    border-radius: 10px;
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: #21251F;
+    color: white;
+}
+
+.maisChars {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Footer */
+
+footer {
+    background-color: #21251F;
+    padding: 10px 0;
+    color: white;
+}
+
+.novo-footer {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.novo-footer {
+    display: flex;
+    justify-content: space-between;
+    height: 250px;
+    margin: 20px 0;
+}
+
+footer ul {
+    list-style-type: none;
+    line-height: 160%;
+}
+
+footer .logo {
+    width: 220px;
+}
+
+.containerFooter {
+    width: 1440px;
+}

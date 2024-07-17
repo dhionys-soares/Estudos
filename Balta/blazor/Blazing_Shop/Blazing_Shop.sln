@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazing_Shop", "Blazing_Shop.csproj", "{9ABE2D48-06FD-405B-A7EC-A016381E364F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABE2D48-06FD-405B-A7EC-A016381E364F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABE2D48-06FD-405B-A7EC-A016381E364F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABE2D48-06FD-405B-A7EC-A016381E364F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABE2D48-06FD-405B-A7EC-A016381E364F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9021257-F2AD-4A17-BA82-393C99480B6D}
+	EndGlobalSection
+EndGlobal

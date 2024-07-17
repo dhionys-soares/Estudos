@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blazing_Shop.props" />
+</Project>

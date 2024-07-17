@@ -1,0 +1,27 @@
+﻿@page "/products/{id:int}"
+@inject ApplicationDbContext Context
+@rendermode InteractiveServer
+
+
+@if (Product is null)
+{
+    <p><em>Produto não encontrado</em></p>
+}
+else
+{
+    <h1 readonly>@Product.Title</h1>
+
+    <a href="/products">Voltar</a>
+}
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    public Product? Product { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Product = await Context.Products.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+    }
+}

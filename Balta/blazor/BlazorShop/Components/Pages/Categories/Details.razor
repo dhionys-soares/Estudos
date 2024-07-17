@@ -1,0 +1,27 @@
+﻿@page "/categories/{id:int}"
+@inject ApplicationDbContext Context
+@rendermode InteractiveServer
+
+
+@if(Category is null)
+{
+    <p><em>Categoria não encontrada</em></p>
+}
+else
+{
+    <h1 readonly >@Category.Title</h1>
+
+    <a href="/categories">Voltar</a>
+}
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    public Category? Category { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Category = await Context.Categories.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+    }
+}

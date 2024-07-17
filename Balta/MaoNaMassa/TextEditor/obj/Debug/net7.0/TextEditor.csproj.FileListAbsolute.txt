@@ -1,0 +1,14 @@
+C:\Balta\MaoNaMassa\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\Balta\MaoNaMassa\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\Balta\MaoNaMassa\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\Balta\MaoNaMassa\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\Balta\MaoNaMassa\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\Balta\MaoNaMassa\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll

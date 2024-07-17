@@ -1,0 +1,2 @@
+CREATE OR ALTER PROCEDURE[spListaCursos] AS
+SELECT * FROM[Curso]

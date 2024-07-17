@@ -1,0 +1,14 @@
+C:\Balta\MaoNaMassa\StopWatch\bin\Debug\net7.0\StopWatch.exe
+C:\Balta\MaoNaMassa\StopWatch\bin\Debug\net7.0\StopWatch.deps.json
+C:\Balta\MaoNaMassa\StopWatch\bin\Debug\net7.0\StopWatch.runtimeconfig.json
+C:\Balta\MaoNaMassa\StopWatch\bin\Debug\net7.0\StopWatch.dll
+C:\Balta\MaoNaMassa\StopWatch\bin\Debug\net7.0\StopWatch.pdb
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfoInputs.cache
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfo.cs
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\StopWatch.dll
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\refint\StopWatch.dll
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\StopWatch.pdb
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\StopWatch.genruntimeconfig.cache
+C:\Balta\MaoNaMassa\StopWatch\obj\Debug\net7.0\ref\StopWatch.dll

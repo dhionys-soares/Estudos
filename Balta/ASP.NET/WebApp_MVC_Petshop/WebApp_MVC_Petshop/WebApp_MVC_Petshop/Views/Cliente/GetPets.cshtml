@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Pet>
+
+<h1>Pets do Cliente</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @foreach (var item in Model)
+            {
+            <dd class="col-sm-10">
+                @Html.DisplayFor(x => item.Name)
+                <hr />
+            </dd>                
+            }
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-controller="Home" asp-action="Index">Voltar</a>
+</div>

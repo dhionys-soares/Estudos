@@ -1,0 +1,51 @@
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\dataaccess - dapper.exe
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\dataaccess - dapper.deps.json
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\dataaccess - dapper.runtimeconfig.json
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\dataaccess - dapper.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\dataaccess - dapper.pdb
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Azure.Core.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Azure.Identity.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Dapper.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Balta\DataAccess\dataaccess - dapper\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.csproj.AssemblyReference.cache
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.AssemblyInfoInputs.cache
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.AssemblyInfo.cs
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.csproj.CoreCompileInputs.cache
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.csproj.CopyComplete
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.dll
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\refint\dataaccess - dapper.dll
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.pdb
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\dataaccess - dapper.genruntimeconfig.cache
+C:\Balta\DataAccess\dataaccess - dapper\obj\Debug\net8.0\ref\dataaccess - dapper.dll

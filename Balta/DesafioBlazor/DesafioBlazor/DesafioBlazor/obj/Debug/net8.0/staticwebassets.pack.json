@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Balta\\DesafioBlazor\\DesafioBlazor\\DesafioBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DesafioBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DesafioBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Balta\\DesafioBlazor\\DesafioBlazor\\DesafioBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Balta\\DesafioBlazor\\DesafioBlazor\\DesafioBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Balta\\DesafioBlazor\\DesafioBlazor\\DesafioBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Balta\\DesafioBlazor\\DesafioBlazor\\DesafioBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DesafioBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DesafioBlazor.props",
+      "PackagePath": "build\\DesafioBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DesafioBlazor.props",
+      "PackagePath": "buildMultiTargeting\\DesafioBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DesafioBlazor.props",
+      "PackagePath": "buildTransitive\\DesafioBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
