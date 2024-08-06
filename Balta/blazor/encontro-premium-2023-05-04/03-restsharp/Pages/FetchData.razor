@@ -1,0 +1,69 @@
+﻿@page "/fetchdata"
+@using BlazorWasmCrud.Models
+@using RestSharp;
+
+<PageTitle>Weather forecast</PageTitle>
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (_categories == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in _categories)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+<button class="btn btn-primary" @onclick="Post">CRIAR</button>
+
+@code {
+    private List<Category>? _categories;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+
+    private async Task LoadData()
+    {
+        var client = new RestClient();
+
+        var request = new RestRequest($"{Configuration.ApiUrl}/v1/categories");
+        _categories = await client.GetAsync<List<Category>>(request);
+    }
+
+    private async Task Post()
+    {
+        var client = new RestClient();
+
+        var request = new RestRequest($"{Configuration.ApiUrl}/v1/categories")
+            .AddJsonBody(new Category(0, "Teste", "Testando"));
+        var category = await client.PostAsync<Category?>(request);
+        if (category is not null)
+            _categories?.Add(category);
+    }
+
+}

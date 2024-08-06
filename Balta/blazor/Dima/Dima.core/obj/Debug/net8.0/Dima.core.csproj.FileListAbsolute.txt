@@ -1,0 +1,12 @@
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\bin\Debug\net8.0\Dima.core.deps.json
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\bin\Debug\net8.0\Dima.core.dll
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\bin\Debug\net8.0\Dima.core.pdb
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\Dima.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\Dima.core.AssemblyInfoInputs.cache
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\Dima.core.AssemblyInfo.cs
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\Dima.core.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\Dima.core.sourcelink.json
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\Dima.core.dll
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\refint\Dima.core.dll
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\Dima.core.pdb
+C:\dev\Estudos\Balta\blazor\Dima\Dima.core\obj\Debug\net8.0\ref\Dima.core.dll
