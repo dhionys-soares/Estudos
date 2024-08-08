@@ -1,10 +1,12 @@
 ﻿using Dima.Api.Common.Api;
 using Dima.Api.Handlers;
+using Dima.Api.Models;
 using Dima.core;
 using Dima.core.Models;
 using Dima.core.Requests.Categories;
 using Dima.core.Responses;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace Dima.Api.Endpoints.Categories
 {
@@ -18,11 +20,11 @@ namespace Dima.Api.Endpoints.Categories
             .WithOrder(5)
             .Produces<PagedResponse<List<Category>?>>();
 
-        private static async Task<IResult> HandleAsync([FromServices]ICategoryHandler handler, [FromQuery] int pageSize = Configuration.DefaultPageSize, [FromQuery] int pageNumber = Configuration.DefaultPageNumber)
+        private static async Task<IResult> HandleAsync(ClaimsPrincipal user, [FromServices]ICategoryHandler handler, [FromQuery] int pageSize = Configuration.DefaultPageSize, [FromQuery] int pageNumber = Configuration.DefaultPageNumber)
         {
             var request = new GetAllCategoriesRequest
             {
-                UserId = "dhi.soares@hotmail.com",
+                UserId = user.Identity?.Name ?? string.Empty,
                 PageNumber = pageNumber,
                 PageSize = pageSize
             };

@@ -4772,11 +4772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Api\\Dima.Api.csproj",
+      "projectUniqueName": "C:\\dev\\estudos\\balta\\blazor\\Dima\\Dima.api\\Dima.Api.csproj",
       "projectName": "Dima.Api",
-      "projectPath": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Api\\Dima.Api.csproj",
+      "projectPath": "C:\\dev\\estudos\\balta\\blazor\\Dima\\Dima.api\\Dima.Api.csproj",
       "packagesPath": "C:\\Users\\dhiso\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Api\\obj\\",
+      "outputPath": "C:\\dev\\estudos\\balta\\blazor\\Dima\\Dima.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dhiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4794,8 +4794,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.core\\Dima.core.csproj": {
-              "projectPath": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.core\\Dima.core.csproj"
+            "C:\\dev\\estudos\\balta\\blazor\\Dima\\Dima.core\\Dima.core.csproj": {
+              "projectPath": "C:\\dev\\estudos\\balta\\blazor\\Dima\\Dima.core\\Dima.core.csproj"
             }
           }
         }

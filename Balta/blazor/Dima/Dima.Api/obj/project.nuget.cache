@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8SQhKEEEZq4=",
+  "dgSpecHash": "ESP1y+sEATo=",
   "success": true,
-  "projectFilePath": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Api\\Dima.Api.csproj",
+  "projectFilePath": "C:\\dev\\estudos\\balta\\blazor\\Dima\\Dima.api\\Dima.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhiso\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dhiso\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

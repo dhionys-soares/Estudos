@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6E8277F-756F-4D7B-9582-794812309808}|Dima.Api\\Dima.Api.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6E8277F-756F-4D7B-9582-794812309808}|Dima.Api\\Dima.Api.csproj|solutionrelative:dima.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Dima.Api\\Program.cs",
-              "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Api\\Program.cs",
-              "RelativeToolTip": "Dima.Api\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T21:49:54.135Z",
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\App.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\App.razor",
+              "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\App.razor",
+              "RelativeToolTip": "Dima.Web\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T23:54:59.943Z",
               "EditorCaption": ""
             }
           ]

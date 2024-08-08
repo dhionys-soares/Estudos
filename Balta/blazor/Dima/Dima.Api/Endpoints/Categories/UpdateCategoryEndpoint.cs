@@ -1,9 +1,11 @@
 ﻿using Dima.Api.Common.Api;
 using Dima.Api.Handlers;
+using Dima.Api.Models;
 using Dima.core.Models;
 using Dima.core.Requests.Categories;
 using Dima.core.Responses;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace Dima.Api.Endpoints.Categories
 {
@@ -17,9 +19,9 @@ namespace Dima.Api.Endpoints.Categories
             .WithOrder(2)
             .Produces<Response<Category?>>();
 
-        private static async Task<IResult> HandleAsync([FromServices]ICategoryHandler handler, [FromBody]UpdateCategoryRequest request,[FromRoute] long id)
+        private static async Task<IResult> HandleAsync(ClaimsPrincipal user, [FromServices]ICategoryHandler handler, [FromBody]UpdateCategoryRequest request,[FromRoute] long id)
         {
-            request.UserId = "dhi.soares@hotmail.com";
+            request.UserId = user.Identity?.Name ?? string.Empty;
             request.Id = id;
 
             var result = await handler.UpdateAsync(request);
