@@ -1,59 +1,59 @@
 {
   "Files": [
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\8unuvqaucu.gz",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\8unuvqaucu.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Dima.Web.styles.css",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Dima.Web.styles.css",
       "PackagePath": "staticwebassets\\Dima.Web.styles.css"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\service-worker-assets.js",
       "PackagePath": "staticwebassets\\service-worker-assets.js"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\appsettings.json",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\css\\app.css",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\favicon.png",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\icon-192.png",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\icon-512.png",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\imgs\\dima.png",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\imgs\\dima.png",
       "PackagePath": "staticwebassets\\imgs\\dima.png"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\imgs\\logo.png",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\imgs\\logo.png",
       "PackagePath": "staticwebassets\\imgs\\logo.png"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\index.html",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\dev\\estudos\\balta\\blazor\\dima\\Dima.web\\wwwroot\\manifest.webmanifest",
+      "Id": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
     },
     {

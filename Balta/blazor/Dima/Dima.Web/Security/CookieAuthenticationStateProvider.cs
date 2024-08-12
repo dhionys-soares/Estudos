@@ -17,6 +17,9 @@ namespace Dima.Web.Security
             return _isAuthenticated;
         }
 
+        public void NotifyAuthenticationStateChanged()
+            => NotifyAuthenticationStateChanged(GetAuthenticationStateAsync());
+
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
         {
             _isAuthenticated = false;
@@ -38,14 +41,11 @@ namespace Dima.Web.Security
             return new AuthenticationState(user);
         }
 
-        public void NotifyAuthenticationStateChanged()
-            => NotifyAuthenticationStateChanged(GetAuthenticationStateAsync());
-
         private async Task<User?> GetUser()
         {
             try
             {
-                return await _client.GetFromJsonAsync<User>("v1/identity/manage/info");
+                return await _client.GetFromJsonAsync<User?>("v1/identity/manage/info");
             }
             catch
             {
@@ -58,7 +58,7 @@ namespace Dima.Web.Security
             var claims = new List<Claim>
             {
                 new(ClaimTypes.Name, user.Email),
-                new(ClaimTypes.Name, user.Email)
+                new(ClaimTypes.Email, user.Email)
             };
 
             claims.AddRange(user.Claims

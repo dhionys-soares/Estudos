@@ -1,7 +1,7 @@
 ﻿using Dima.core.Handlers;
 using Dima.core.Requests.Account;
+using Dima.Web.Security;
 using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Authorization;
 using MudBlazor;
 
 namespace Dima.Web.Pages.Identity
@@ -19,7 +19,7 @@ namespace Dima.Web.Pages.Identity
         public NavigationManager NavigationManager { get; set; } = null!;
 
         [Inject]
-        public AuthenticationStateProvider AuthenticationStateProvider { get; set; } = null!;
+        public ICookieAuthenticationStateProvider AuthenticationStateProvider { get; set; } = null!;
 
         #endregion
 
@@ -36,7 +36,7 @@ namespace Dima.Web.Pages.Identity
 
             var user = authState.User;
 
-            if (user.Identity is {IsAuthenticated:true })
+            if (user.Identity is {IsAuthenticated: true })
                 NavigationManager.NavigateTo("/");
         }
         #endregion
@@ -45,11 +45,14 @@ namespace Dima.Web.Pages.Identity
         public async Task OnValidSubmitAsync()
         {
             IsBusy = true;
+
             try
             {
                 var result = await Handler.RegisterAsync(InputModel);
+
                 if (result.IsSucess)
                 {
+                    Snackbar.Add(result.Message, Severity.Success);
                     NavigationManager.NavigateTo("/login");
                 }
                 else

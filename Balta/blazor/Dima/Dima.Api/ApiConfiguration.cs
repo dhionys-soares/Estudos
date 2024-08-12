@@ -2,6 +2,6 @@
 {
     public static class ApiConfiguration
     {
-        public const string CorPoliceName = "wasm";
+        public const string CorsPolicyName = "wasm";
     }
 }
