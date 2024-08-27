@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\components\\reports\\incomesandexpenseschart.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\components\\reports\\incomesandexpenseschart.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\components\\reports\\incomesandexpenseschart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\components\\reports\\incomesandexpenseschart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Home.razor.cs",
+              "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "Dima.Web\\Pages\\Home.razor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:09:11.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncomesAndExpensesChart.razor.cs",
+              "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor.cs",
+              "RelativeDocumentMoniker": "Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor.cs",
+              "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor.cs",
+              "RelativeToolTip": "Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:46:38.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncomesAndExpensesChart.razor",
+              "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor",
+              "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor",
+              "RelativeToolTip": "Dima.Web\\Components\\Reports\\IncomesAndExpensesChart.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:46:25.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Dima.Web\\Pages\\Home.razor",
+              "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Pages\\Home.razor",
+              "RelativeToolTip": "Dima.Web\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T20:41:13.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

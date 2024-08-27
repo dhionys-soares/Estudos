@@ -29,7 +29,7 @@ namespace Dima.Web.Handlers
 
         public async Task<PagedResponse<List<Transaction>?>> GetByPeriodAsync(GetTransactionsByPeriodRequest request)
         {
-            const string format = "yyyy-MM-DD";
+            const string format = "yyyy-MM-dd";
             var startDate = request.StartDate is not null
                 ? request.StartDate.Value.ToString(format)
                 : DateTime.Now.GetFirstDay().ToString(format);

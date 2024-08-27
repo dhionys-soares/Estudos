@@ -5,6 +5,8 @@
                   Theme="Configuration.Theme" />
 
 <MudSnackbarProvider />
+<MudDialogProvider />
+<MudPopoverProvider />
 
 <AuthorizeView>
 
@@ -14,6 +16,8 @@
                 <MudIconButton Icon="@Icons.Material.Filled.Menu"Color="Color.Inherit"Edge="@Edge.Start"OnClick="ToggleDrawer" />                
                 Dima
                 <MudSpacer />
+                <MudSpacer />
+                <MudButton Href="/lancamentos/novo" Variant="Variant.Text" StartIcon="@Icons.Material.TwoTone.Add">Novo lançamento</MudButton>
 
                 <MudText Typo="Typo.caption">@context.User.Identity?.Name</MudText>
                 <MudSwitch
@@ -23,9 +27,11 @@
                     ThumbIcon="@Icons.Material.TwoTone.Lightbulb"
                     @bind-Value="_isDarkMode" />
             </MudAppBar>
-            <MudDrawer @bind-Open="_isDrawerOpened"><h3>Nav Menu</h3></MudDrawer>
+            <MudDrawer @bind-Open="_isDrawerOpened">
+                <NavMenu />
+                </MudDrawer>
             <MudMainContent>
-                <MudContainer>
+                <MudContainer Class="mt-4">
                     @Body
                 </MudContainer>
             </MudMainContent>

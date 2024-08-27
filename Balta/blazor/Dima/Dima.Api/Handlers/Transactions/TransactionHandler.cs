@@ -1,5 +1,6 @@
 ﻿using Dima.Api.Data;
 using Dima.core.Common.Extensions;
+using Dima.core.Enums;
 using Dima.core.Handlers;
 using Dima.core.Models;
 using Dima.core.Requests.Transactions;
@@ -12,6 +13,8 @@ namespace Dima.Api.Handlers.Transactions
     {
         public async Task<Response<Transaction?>> CreateAsync(CreateTransactionRequest request)
         {
+            if (request is { Type: ETransactionType.Withdraw, Amount: >= 0 })
+                request.Amount *= -1;
             try
             {
                 var transaction = new Transaction
@@ -40,7 +43,6 @@ namespace Dima.Api.Handlers.Transactions
         {
             try
             {
-                request.UserId = "dhi.soares@hotmail.com";
                 var transaction = await Context.Transactions.AsNoTracking().FirstOrDefaultAsync(x => x.Id == request.Id && x.UserId == request.UserId);
                 if (transaction == null)
                     return new Response<Transaction?>(null, 404, "Transação não encontrada");
@@ -60,7 +62,6 @@ namespace Dima.Api.Handlers.Transactions
         {
             try
             {
-                request.UserId = "dhi.soares@hotmail.com";
                 var transaction = await Context.Transactions.AsNoTracking().FirstOrDefaultAsync(x => x.Id == request.Id && x.UserId == request.UserId);
 
                 return transaction is not null
@@ -78,11 +79,15 @@ namespace Dima.Api.Handlers.Transactions
         {
             try
             {
-                request.UserId = "dhi.soares@hotmail.com";
                 request.StartDate ??= DateTime.Now.GetFirstDay();
                 request.EndDate ??= DateTime.Now.GetLastDay();
 
-                var query = Context.Transactions.AsNoTracking().Where(x => x.CreatedAt >= request.StartDate && x.PaidOrReceivedAt <= request.EndDate && x.UserId == request.UserId).OrderBy(x => x.Title);
+                var query = Context.Transactions.AsNoTracking().Where(
+                    x => x.PaidOrReceivedAt >= request.StartDate && 
+                    x.PaidOrReceivedAt <= request.EndDate 
+                    && x.UserId == request.UserId)
+                    .OrderBy(x => 
+                    x.PaidOrReceivedAt);
 
                 var transactions = await query.Skip((request.PageNumber - 1) * request.PageSize).Take(request.PageSize).ToListAsync();
 
@@ -101,10 +106,10 @@ namespace Dima.Api.Handlers.Transactions
 
         public async Task<Response<Transaction?>> UpdateAsync(UpdateTransactionRequest request)
         {
+            if (request is { Type: ETransactionType.Withdraw, Amount: >= 0 })
+                request.Amount *= -1;
             try
             {
-                request.UserId = "dhi.soares@hotmail.com";
-
                 var transaction = await Context.Transactions.AsNoTracking().FirstOrDefaultAsync(x => x.Id == request.Id && x.UserId == request.UserId);
 
                 if (transaction is null)

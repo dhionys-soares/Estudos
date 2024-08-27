@@ -7,6 +7,7 @@ using Dima.core;
 using Dima.core.Handlers;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Dima.Api.Handlers.Reports;
 
 namespace Dima.Api.Common.Api
 {
@@ -70,6 +71,7 @@ namespace Dima.Api.Common.Api
             builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
 
             builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
+            builder.Services.AddTransient<IReportHandler, ReportHandler>();
         }
     }
 }

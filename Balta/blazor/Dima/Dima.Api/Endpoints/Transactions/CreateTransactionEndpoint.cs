@@ -1,5 +1,4 @@
 ﻿using Dima.Api.Common.Api;
-using Dima.Api.Models;
 using Dima.core.Handlers;
 using Dima.core.Models;
 using Dima.core.Requests.Transactions;
