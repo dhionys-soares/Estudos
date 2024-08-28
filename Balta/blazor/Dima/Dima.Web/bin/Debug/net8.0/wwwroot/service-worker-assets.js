@@ -37,12 +37,12 @@
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-poRxzItTDK9KR5rSg3XyiOyJB4y\/CPH8\/oeIcfBP4mo=",
-      "url": "Dima.Web.styles.css"
-    },
-    {
       "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
       "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-poRxzItTDK9KR5rSg3XyiOyJB4y\/CPH8\/oeIcfBP4mo=",
+      "url": "Dima.Web.styles.css"
     },
     {
       "hash": "sha256-tZ3Z0q6xQTgUxlWgiWvzS4SBQeBqETtRGtUWvVaU31w=",
