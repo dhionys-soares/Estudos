@@ -1,0 +1,30 @@
+p:hover {
+    color: green;
+    }
+
+    a:active {
+        background-color: red;
+    }
+
+    a:visited {
+        color: yellow;
+    }
+
+    input:focus {
+        background-color: aqua;
+        color: blueviolet;
+    }
+
+    .bolo:hover {
+        color: red;
+    }
+
+    .bolo:active{
+        background-color: aquamarine;
+    }
+
+    .bolo :active {
+        background-color: aquamarine;
+    }
+
+    

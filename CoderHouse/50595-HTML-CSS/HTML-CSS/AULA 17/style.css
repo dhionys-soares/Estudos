@@ -1,0 +1,82 @@
+/* .grid{
+    display: grid;
+    grid-template-columns:repeat(3, 100px);
+    grid-template-rows: repeat(2, 50px);
+    column-gap: 5px;
+    row-gap: 5px;
+    background-color: burlywood;
+}
+
+#grade{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: 1fr 2fr 2fr 1fr;
+    gap: 2px;
+    
+    grid-template-areas:
+    "nav header header"
+    "nav produtos publi"
+    "nav servicos publi"
+    "nav foote foote";
+    
+    
+}
+#header{
+    grid-area: header;
+    background-color: rgb(200, 194, 194);
+}
+#nav{
+    grid-area: nav;
+    background-color: rgb(136, 127, 255);
+}
+#produtos{
+    grid-area: produtos;
+    background-color: rgb(255, 127, 223);
+}
+#servicos{
+    grid-area: servicos;
+    background-color: rgb(127, 255, 172);
+}
+#publi{
+    grid-area: publi;
+    background-color: rgb(223, 255, 127);
+    }
+#foote{
+    grid-area: foote;
+    background-color: rgb(157, 127, 255);
+} */
+body {
+    display: grid;
+    grid-template-columns: repeat(3, 90px);
+    grid-template-rows: repeat(3, 50px);
+
+    grid-template-areas:
+        ". header header"
+        "nav conteudo conteudo"
+        "footer footer ."
+    ;
+}
+
+body nav {
+    grid-area: nav;
+    background-color: brown;
+
+}
+
+body header {
+    grid-area: header;
+    background-color: darkgoldenrod;
+
+}
+
+body footer {
+    grid-area: footer;
+    background-color: darkolivegreen;
+
+}
+
+body div {
+    grid-area: conteudo;
+    background-color: chocolate;
+
+}

@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 100%;
+    width: 100%;
+    background-color: chartreuse;
+}
+
+#conteiner-filho-1 {
+    background-color: chocolate;
+    height: 600px;
+    width: 30%;
+}
+
+#conteiner-filho-2 {
+    flex-direction: column;
+    align-items: stretch;
+    background-color: aqua;
+    width: 600px;
+}
+
+#conteiner-neto-1 {
+    height: 20%;
+
+}
+
+#conteiner-neto-2 {
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    height: 60%;
+}
+
+#conteiner-bisneto-1 {
+    background-color: blueviolet;
+    width: 50%;
+}
+
+#conteiner-bisneto-2 {
+    background-color: coral;
+    width: 50%;
+}
+
+#conteiner-neto-3 {
+    background-color: aqua;
+    height: 20%;
+}

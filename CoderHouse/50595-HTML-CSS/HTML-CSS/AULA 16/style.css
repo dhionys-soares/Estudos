@@ -1,0 +1,35 @@
+div{
+    border: 5px solid red
+   }
+
+div{
+    width: 100px;
+    height: 100px;
+    border-style: dotted;
+}
+
+.pai-flex{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: grey;
+}
+
+.Vermelho{
+    background-color: red;
+}
+
+.Verde{
+    background-color: green;
+}
+
+.Amarelo{
+    background-color: yellow;
+}
+
+.Azul{
+    background-color: blue;
+}
+
+.Rosa{
+    background-color: pink;
+}

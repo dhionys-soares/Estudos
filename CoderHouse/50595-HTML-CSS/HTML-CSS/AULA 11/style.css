@@ -1,0 +1,27 @@
+div {
+    /* propriedades decorativas */
+    border: solid 1px black;
+    display: inline-block;
+    font-size: 32px;
+    font-family: Arial;
+    /* propriedades que fazem o "problema" */
+    width: 100px;
+    height: 110px;
+    overflow: hidden;
+    margin: 10px 5px 10px 10px;  
+
+}
+
+.Praticar {
+    margin-top: 5px;
+    margin-right: 8px;
+    margin-left: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 9px;
+    padding-left: 9px;
+    border: dashed red;
+    overflow: auto;
+    overflow-x: hidden;
+    background-color: blueviolet;
+}

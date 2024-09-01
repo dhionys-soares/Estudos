@@ -1,0 +1,35 @@
+.container {
+width: 900px;
+height: 700px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 2fr;
+    grid-template-areas:
+    "head head"
+    "cont aside"
+    "cont aside";
+    gap: 10px;
+}
+header{
+    grid-area: head;
+    background-color: darksalmon;
+}
+section{
+grid-area: cont;
+background-color: darksalmon;
+}
+aside{
+    grid-area: aside;
+    background-color: darksalmon;
+}
+
+@media (max-width: 768px){
+    .container{
+        grid-template-columns: 400px;
+        grid-template-rows: 50px 150px 50px;
+        grid-template-areas: 
+        "head"
+        "cont"
+        "aside";
+    }
+}
