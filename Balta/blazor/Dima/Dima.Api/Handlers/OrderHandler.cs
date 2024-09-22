@@ -117,14 +117,36 @@ namespace Dima.Api.Handlers
             return new Response<Order?>(order, 201, $"Pedido {order.Number} criado com sucesso");
         }
 
-        public Task<PagedResponse<List<Order>?>> GetAllAsync(GetAllOrdersRequest request)
+        public async Task<PagedResponse<List<Order>?>> GetAllAsync(GetAllOrdersRequest request)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var query = context.Orders.AsNoTracking().Include(x => x.Product).Include(x => x.Voucher).Where(x => x.UserId == request.UserId).OrderByDescending(x => x.CreatedAt);
+
+                var orders = await query.Skip((request.PageNumber-1)*request.PageSize).Take(request.PageSize).ToListAsync();
+
+                var count = await query.CountAsync();
+
+                return new PagedResponse<List<Order>?>(orders, count, request.PageNumber, request.PageSize);
+            }
+            catch
+            {
+                return new PagedResponse<List<Order>?>(null, 500, "Falha ao obter os pedidos");
+            }
         }
 
-        public Task<Response<Order?>> GetByNumberAsync(GetOrderByNumberRequest request)
+        public async Task<Response<Order?>> GetByNumberAsync(GetOrderByNumberRequest request)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var order = await context.Orders.AsNoTracking().Include(x => x.Product).Include(x => x.Voucher).FirstOrDefaultAsync(x => x.Number == request.Number && x.UserId == request.UserId);
+
+                return order is null ? new Response<Order?>(null, 404, "Pedido não encontrado") : new Response<Order?>(order);
+            }
+            catch
+            {
+                return new Response<Order?>(null, 500, "Falha ao obter o pedido");
+            }
         }
 
         public async Task<Response<Order?>> PayAsync(PayOrderRequest request)
@@ -176,9 +198,54 @@ namespace Dima.Api.Handlers
             return new Response<Order?>(order, 200, $"Pedido {order.Number} pago com sucesso");
         }
 
-        public Task<Response<Order?>> RefundAsync(RefundOrderRequest request)
+        public async Task<Response<Order?>> RefundAsync(RefundOrderRequest request)
         {
-            throw new NotImplementedException();
+            Order? order;
+
+            try
+            {
+                order = await context.Orders.AsNoTracking().FirstOrDefaultAsync(x => x.Id == request.Id && x.UserId == request.UserId);
+
+                if (order is null)
+                    return new Response<Order?>(null, 404, "Pedido não encontrado");
+
+            }
+            catch
+            {
+                return new Response<Order?>(null, 500, "Não foi possível recuperar o pedido");
+            }
+
+            switch (order.Status)
+            {
+                case EOrderStatus.Canceled:
+                    return new Response<Order?>(order, 400, "Este pedido já foi cancelado e não pode ser estornado");
+
+                case EOrderStatus.Paid:
+                    break;
+
+                case EOrderStatus.Refunded:
+                    return new Response<Order?>(order, 400, "Este pedido já foi reembolsado");
+
+                case EOrderStatus.WaitingPayment:
+                    return new Response<Order?>(order, 400, "Este pedido não foi pago e não pode ser estornado");
+
+                default: return new Response<Order?>(order, 400, "Não foi possível pagar o pedido");
+            }
+
+            order.Status = EOrderStatus.Refunded;
+            order.UpdateAt = DateTime.Now;
+
+            try
+            {
+                context.Orders.Update(order);
+                await context.SaveChangesAsync();
+            }
+            catch
+            {
+                return new Response<Order?>(null, 500, "Falha ao realizar o estorno");
+            }
+
+            return new Response<Order?>(order, 200, $"Pedido {order.Number} estornado com sucesso");
         }
     }
 }
