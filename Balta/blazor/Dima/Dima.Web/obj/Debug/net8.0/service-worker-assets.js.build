@@ -37,12 +37,12 @@
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
-      "url": "_framework\/blazor.webassembly.js"
-    },
-    {
       "hash": "sha256-poRxzItTDK9KR5rSg3XyiOyJB4y\/CPH8\/oeIcfBP4mo=",
       "url": "Dima.Web.styles.css"
+    },
+    {
+      "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
+      "url": "_framework\/blazor.webassembly.js"
     },
     {
       "hash": "sha256-tZ3Z0q6xQTgUxlWgiWvzS4SBQeBqETtRGtUWvVaU31w=",
@@ -881,23 +881,23 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-VbdNVcYBX\/TqgM+gQRkr7XR5LZBfXiAZUQLCUCfraWE=",
+      "hash": "sha256-v95PnUmgd+7Q4IcfK9j\/eS3v+gk3Ayp0m8B5nZ6g940=",
       "url": "_framework\/Dima.core.wasm"
     },
     {
-      "hash": "sha256-p565NIRqTx9QSWP\/vredBndslj1h2Nt0IZqwKRD+LP0=",
+      "hash": "sha256-tTKZ5tzph22fG1q07uyMKfPz7QMjH1gcMoLf51NKN4U=",
       "url": "_framework\/Dima.core.pdb"
     },
     {
-      "hash": "sha256-OslqRSwqUBqILLme1wfhqyX5IK5\/rmhev5LnxiPMTgA=",
+      "hash": "sha256-5vzzP0sloqSQOY9\/bkgya841f69gp7szjYaRqj\/vprc=",
       "url": "_framework\/Dima.Web.wasm"
     },
     {
-      "hash": "sha256-RAz30HUkFfSvcg9W8Uz8XZEIj97F95Bmb4o7G2G2gPs=",
+      "hash": "sha256-4itISUjqTA1yLhQIa5MEMlgg\/NToJgVRU\/BlGcF76f4=",
       "url": "_framework\/Dima.Web.pdb"
     },
     {
-      "hash": "sha256-znDd4jcGPojtCqfGnedtmIe\/+NHQxYercIbJMzCe1s4=",
+      "hash": "sha256-5NL2+CEJ2wbDQvlYiDprGQiwM5MUE3wyRs3THRhs\/7M=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -913,5 +913,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "qkSLEWuj"
+  "version": "zwByyhFx"
 };

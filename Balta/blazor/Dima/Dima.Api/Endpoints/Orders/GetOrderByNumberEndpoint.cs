@@ -9,7 +9,7 @@ namespace Dima.Api.Endpoints.Orders
 {
     public class GetOrderByNumberEndpoint : IEndpoint
     {
-        public static void Map(IEndpointRouteBuilder app) => app.MapPost("/{number}", HandleAsync).WithName("Order: Get by order").WithSummary("Get a order").WithDescription("Get a order").WithOrder(6).Produces<Response<Order?>>();
+        public static void Map(IEndpointRouteBuilder app) => app.MapGet("/{number}", HandleAsync).WithName("Order: Get by order").WithSummary("Get a order").WithDescription("Get a order").WithOrder(6).Produces<Response<Order?>>();
 
         private static async Task<IResult> HandleAsync(IOrderHandler handler, string number, ClaimsPrincipal user)
         {

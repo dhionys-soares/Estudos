@@ -10,7 +10,7 @@ namespace Dima.Api.Endpoints.Orders
 {
     public class GetAllProductsEndpoint : IEndpoint
     {
-        public static void Map(IEndpointRouteBuilder app) => app.MapGet("/", HandleAsync).WithName("Products: Get products").WithSummary("Get products").WithDescription("Get products").WithOrder(4).Produces<PagedResponse<List<Product>?>>();
+        public static void Map(IEndpointRouteBuilder app) => app.MapGet("/", HandleAsync).WithName("Products: Get products").WithSummary("Get products").WithDescription("Get products").WithOrder(1).Produces<PagedResponse<List<Product>?>>();
 
         private static async Task<IResult> HandleAsync(IProductHandler handler, [FromQuery] int pageNumber = Configuration.DefaultPageNumber, [FromQuery] int pageSize = Configuration.DefaultPageSize)
         {
