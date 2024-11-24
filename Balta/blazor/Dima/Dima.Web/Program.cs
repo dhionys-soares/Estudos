@@ -31,6 +31,9 @@ builder.Services.AddHttpClient(Configuration.HttpClientName, options => {
 builder.Services.AddTransient<IAccountHandler, AccountHandler>();
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
 builder.Services.AddTransient<ITransactionHandler, TransactionHandler>();
+builder.Services.AddTransient<IVoucherHandler, VoucherHandler>();
+builder.Services.AddTransient<IProductHandler, ProductHandler>();
+builder.Services.AddTransient<IOrderHandler, OrderHandler>();
 builder.Services.AddTransient<IReportHandler, ReportHandler>();
 
 await builder.Build().RunAsync();

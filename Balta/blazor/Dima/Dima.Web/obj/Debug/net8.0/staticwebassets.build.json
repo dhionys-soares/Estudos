@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "twcF5756t6A429QR3M5FUJbM32q93tJ2YFf/C8qwpLM=",
+  "Hash": "xoZ37vDhVy3fmGoIaXP2Ay2iRv91wsxolpsf1guHpiY=",
   "Source": "Dima.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.5hnx48tntt.js",
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.11.if4hfsjdy5.js",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.8.5hnx48tntt.js",
+      "RelativePath": "_framework/dotnet.native.8.0.11.if4hfsjdy5.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.om27cnq0zm.js",
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.11.9osd6ubme9.js",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.8.om27cnq0zm.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.11.9osd6ubme9.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.11\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4159,6 +4159,25 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.wasm"
     },
     {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\19828gym32.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\1dvb9bm9i6.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -4366,25 +4385,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Dima.Web.wasm"
-    },
-    {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\391hcbmbg9.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\3fr9x082co.gz",
@@ -4596,25 +4596,6 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.wasm"
     },
     {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\5hnx48tntt.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.8.5hnx48tntt.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.5hnx48tntt.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.5hnx48tntt.js"
-    },
-    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\5qnhu9wlxc.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -4632,25 +4613,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm"
-    },
-    {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\605gcfge8a.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\743nbx54a4.gz",
@@ -5014,6 +4976,25 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.wasm"
     },
     {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\9osd6ubme9.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.11.9osd6ubme9.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.11.9osd6ubme9.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.11.9osd6ubme9.js"
+    },
+    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\9qmgyp42w3.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -5088,6 +5069,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NetworkInformation.wasm"
+    },
+    {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\a5eqp9a4ft.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\acok11hfwo.gz",
@@ -5297,25 +5297,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.wasm"
-    },
-    {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\bayhxm0tly.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\bfeahq86ro.gz",
@@ -6192,6 +6173,25 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.wasm"
     },
     {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\if4hfsjdy5.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.11.if4hfsjdy5.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.11.if4hfsjdy5.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.11.if4hfsjdy5.js"
+    },
+    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\ipngcu48in.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -6228,6 +6228,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\jbj8687cam.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\jc6xfp7ztx.gz",
@@ -6762,25 +6781,6 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.wasm"
     },
     {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\nc2xb3xay7.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\o4htsvg0ji.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -6838,6 +6838,25 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.NonGeneric.wasm"
     },
     {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\oh50nrqz6l.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\oim2aha201.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -6857,23 +6876,23 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm"
     },
     {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\om27cnq0zm.gz",
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\oolks6imms.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.8.om27cnq0zm.js.gz",
+      "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.om27cnq0zm.js",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.om27cnq0zm.js"
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\osk8wn9aoe.gz",
@@ -7007,25 +7026,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Xml.wasm"
-    },
-    {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\pqmhq18ahi.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\pux8obvie4.gz",
@@ -7387,6 +7387,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipes.wasm"
+    },
+    {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\sg0faccez9.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\t6cas2puoe.gz",
@@ -7826,25 +7845,6 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm"
     },
     {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\wbd12sbhx9.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\wjythkrds4.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -7940,25 +7940,6 @@
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Core.wasm"
     },
     {
-      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\xbf8ezziuq.gz",
-      "SourceId": "Dima.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\xl3s6lxthu.gz",
       "SourceId": "Dima.Web",
       "SourceType": "Computed",
@@ -8014,6 +7995,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.wasm"
+    },
+    {
+      "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\y1rjeepbj4.gz",
+      "SourceId": "Dima.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.web\\obj\\Debug\\net8.0\\compressed\\y4d4ulnevn.gz",
