@@ -25,11 +25,23 @@ namespace Dima.Web.Components.Orders
         #endregion
 
         #region Public Methods
-        public async void OnCancelButtonCliked()
+        public async void OnCancelButtonClikedAsync()
         {
             var result = await Dialog.ShowMessageBox("Atenção!", "Você deseja realmente cancelar este pedido?", "Sim", cancelText: "Não");
             if (result is not null && result == true)
                 await CancelOrderAsync();
+        }
+
+        public async void OnPayButtonClickedAsync()
+        {
+            await PayOrderAsync();
+        }
+
+        public async void OnRefundButtonClikedAsync()
+        {
+            var result = await Dialog.ShowMessageBox("Atenção!", "Você deseja realmente estornar este pedido?", "Sim", cancelText: "Não");
+            if (result is not null && result == true)
+                await RefundOrderAsync();
         }
         #endregion
 
@@ -46,7 +58,27 @@ namespace Dima.Web.Components.Orders
             {
                 Snackbar.Add(result.Message, Severity.Error);
             }
-            #endregion
         }
+
+        private async Task PayOrderAsync()
+        {
+            await Task.Delay(1);
+            Snackbar.Add("Pagamento não implementado", Severity.Error);
+        }
+
+        private async Task RefundOrderAsync()
+        {
+            var request = new RefundOrderRequest { Id = Order.Id };
+            var result = await Handler.RefundAsync(request);
+            if (result.IsSucess)
+            {
+                Parent.RefreshState(result.Data!);
+            }
+            else
+            {
+                Snackbar.Add(result.Message, Severity.Error);
+            }
+        }
+        #endregion
     }
 }

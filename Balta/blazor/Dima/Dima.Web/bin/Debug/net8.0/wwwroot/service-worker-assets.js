@@ -889,15 +889,15 @@
       "url": "_framework\/Dima.core.pdb"
     },
     {
-      "hash": "sha256-0SDRy4zuUXT2GoEFlq5uau9GfHdOJTXCJfrnVfoeF5c=",
+      "hash": "sha256-gmMHeKf2Di2bAgGJOcJLEhBHHyU4zaAK+NksZNcw0qA=",
       "url": "_framework\/Dima.Web.wasm"
     },
     {
-      "hash": "sha256-Lxi4Tc9Z25kHGT4vl4w3wNiWbBTD8o8oyKkSCLoFGOE=",
+      "hash": "sha256-QBqxCadpgIwbXEnGhxTaCsBKOEhJpOzvfnLSlR+l8GY=",
       "url": "_framework\/Dima.Web.pdb"
     },
     {
-      "hash": "sha256-zFeUZ2Xlf6HhzY5ukUP+bMsVMpiOnBI7FjKdnIGR+x4=",
+      "hash": "sha256-W4Etwbx1g1rErwLRbFpDN\/QNJLrSLZAejR4C30Z3BRM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -913,5 +913,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "zR3X9bNW"
+  "version": "InCGtPe5"
 };

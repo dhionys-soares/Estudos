@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\components\\orders\\orderaction.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\components\\orders\\orderaction.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\components\\orders\\orderaction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\components\\orders\\orderaction.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\components\\orders\\orderaction.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|solutionrelative:dima.web\\components\\orders\\orderaction.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F1C503B-B996-44F8-B454-D4854519CD1A}|Dima.web\\Dima.Web.csproj|c:\\dev\\estudos\\balta\\blazor\\dima\\dima.web\\pages\\orders\\details.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Dima.Web\\Pages\\Orders\\Details.razor.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T18:37:33.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T18:37:33.375Z"
             },
             {
               "$type": "Document",
@@ -51,31 +50,30 @@
               "RelativeToolTip": "Dima.Web\\Pages\\Orders\\Details.razor",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T18:06:19.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T18:06:19.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OrderAction.razor",
               "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Orders\\OrderAction.razor",
               "RelativeDocumentMoniker": "Dima.Web\\Components\\Orders\\OrderAction.razor",
               "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Orders\\OrderAction.razor",
               "RelativeToolTip": "Dima.Web\\Components\\Orders\\OrderAction.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-24T18:01:10.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderAction.razor.cs",
               "DocumentMoniker": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Orders\\OrderAction.razor.cs",
               "RelativeDocumentMoniker": "Dima.Web\\Components\\Orders\\OrderAction.razor.cs",
               "ToolTip": "C:\\dev\\Estudos\\Balta\\blazor\\Dima\\Dima.Web\\Components\\Orders\\OrderAction.razor.cs",
               "RelativeToolTip": "Dima.Web\\Components\\Orders\\OrderAction.razor.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCoAAAAwAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wFAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T17:59:08.311Z",
               "EditorCaption": ""
