@@ -8,6 +8,8 @@ namespace Dima.Web
         public const string HttpClientName = "dima";
         public static string BackendUrl { get; set; } = "http://localhost:5054";
 
+        public static string StripePublicKey { get; set; } = "";
+
         public static MudTheme Theme = new()
         {
             Typography = new Typography
