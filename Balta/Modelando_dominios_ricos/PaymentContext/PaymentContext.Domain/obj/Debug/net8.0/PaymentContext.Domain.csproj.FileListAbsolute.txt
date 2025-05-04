@@ -1,0 +1,32 @@
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.deps.json
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.dll
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.pdb
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.sourcelink.json
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.dll
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\refint\PaymentContext.Domain.dll
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.pdb
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\ref\PaymentContext.Domain.dll
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.dll
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.pdb
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\dev\Estudos\Balta\Modelando domínios ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentC.29F7DA76.Up2Date
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.deps.json
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.dll
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.pdb
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.dll
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.pdb
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.sourcelink.json
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentC.29F7DA76.Up2Date
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.dll
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\refint\PaymentContext.Domain.dll
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.pdb
+C:\dev\Estudos\Balta\Modelando_domínios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\ref\PaymentContext.Domain.dll

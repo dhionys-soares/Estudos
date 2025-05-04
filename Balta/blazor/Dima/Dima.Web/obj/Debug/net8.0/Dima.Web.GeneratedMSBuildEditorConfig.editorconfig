@@ -16,107 +16,107 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Dima.Web
 build_property.RootNamespace = Dima.Web
-build_property.ProjectDir = C:\dev\Estudos\Balta\blazor\Dima\Dima.web\
+build_property.ProjectDir = c:\dev\Estudos\Balta\blazor\Dima\Dima.web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\dev\Estudos\Balta\blazor\Dima\Dima.web
+build_property.MSBuildProjectDirectory = c:\dev\Estudos\Balta\blazor\Dima\Dima.web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/App.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Identity/LoginRedirect.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Identity/LoginRedirect.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJZGVudGl0eVxMb2dpblJlZGlyZWN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/NavMenu.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOYXZNZW51LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Orders/OrderAction.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Orders/OrderAction.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcmRlcnNcT3JkZXJBY3Rpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Orders/OrderStatus.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Orders/OrderStatus.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcmRlcnNcT3JkZXJTdGF0dXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Reports/ExpensesByCategoryChart.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Reports/ExpensesByCategoryChart.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZXBvcnRzXEV4cGVuc2VzQnlDYXRlZ29yeUNoYXJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Reports/IncomesAndExpensesChart.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Reports/IncomesAndExpensesChart.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZXBvcnRzXEluY29tZXNBbmRFeHBlbnNlc0NoYXJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Reports/IncomesByCategoryChart.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Components/Reports/IncomesByCategoryChart.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZXBvcnRzXEluY29tZXNCeUNhdGVnb3J5Q2hhcnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Layouts/HeadLessLayout.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Layouts/HeadLessLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xIZWFkTGVzc0xheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Categories/Create.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Categories/Create.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Categories/Edit.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Categories/Edit.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Categories/List.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Categories/List.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Home.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Identity/Login.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Identity/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Identity/Register.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Identity/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Orders/Checkout.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Orders/Checkout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENoZWNrb3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Orders/Confirm.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Orders/Confirm.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENvbmZpcm0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Orders/Details.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Orders/Details.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Products/List.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Products/List.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Transactions/Create.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Transactions/Create.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25zXENyZWF0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Transactions/Edit.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Transactions/Edit.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25zXEVkaXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Transactions/List.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Pages/Transactions/List.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25zXExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/_Imports.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Estudos/Balta/blazor/Dima/Dima.web/Layouts/MainLayout.razor]
+[c:/dev/Estudos/Balta/blazor/Dima/Dima.web/Layouts/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xNYWluTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-9tcwgko5f7
