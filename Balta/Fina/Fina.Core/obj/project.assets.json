@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Balta\\Fina\\Fina.Core\\Fina.Core.csproj",
+      "projectUniqueName": "c:\\dev\\Estudos\\Balta\\Fina\\Fina.Core\\Fina.Core.csproj",
       "projectName": "Fina.Core",
-      "projectPath": "C:\\Balta\\Fina\\Fina.Core\\Fina.Core.csproj",
+      "projectPath": "c:\\dev\\Estudos\\Balta\\Fina\\Fina.Core\\Fina.Core.csproj",
       "packagesPath": "C:\\Users\\dhiso\\.nuget\\packages\\",
-      "outputPath": "C:\\Balta\\Fina\\Fina.Core\\obj\\",
+      "outputPath": "c:\\dev\\Estudos\\Balta\\Fina\\Fina.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dhiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
