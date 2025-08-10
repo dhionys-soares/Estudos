@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace JwtStore.Infra.Data;
 
-public class AppDbContext(DbContextOptions options) : DbContext(options)
+public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
-    DbSet<User>  Users { get; set; } =  null!;
+    public DbSet<User> Users { get; set; } =  null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

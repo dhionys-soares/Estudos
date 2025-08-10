@@ -1,6 +1,8 @@
-﻿namespace JwtStore.Core.Contexts.AccountContext.UseCases.Create;
+﻿using MediatR;
 
-public class Request
+namespace JwtStore.Core.Contexts.AccountContext.UseCases.Create;
+
+public record Request : IRequest<Response>
 {
     public string Name { get; set; }
     public string Email { get; set; }

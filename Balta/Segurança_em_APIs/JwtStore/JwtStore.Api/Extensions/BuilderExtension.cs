@@ -3,7 +3,6 @@ using JwtStore.Core;
 using JwtStore.Infra.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Migrations.Internal;
 using Microsoft.IdentityModel.Tokens;
 
 namespace JwtStore.Api.Extensions;
@@ -20,6 +19,13 @@ public static class BuilderExtension
             builder.Configuration.GetSection("Secrets").GetValue<string>("JwtPrivateKey") ?? String.Empty;
         Configuration.Secrets.PasswordSaltKey =
             builder.Configuration.GetSection("Secrets").GetValue<string>("PasswordSaltKey") ?? String.Empty;
+        Configuration.SendGrid.ApiKey =
+            builder.Configuration.GetSection("SendGrid").GetValue<string>("ApiKey") ?? string.Empty;
+        
+        Configuration.Email.DefaultFromName =
+            builder.Configuration.GetSection("Email").GetValue<string>("DefaultFromName") ?? string.Empty;
+        Configuration.Email.DefaultFromEmail =
+            builder.Configuration.GetSection("Email").GetValue<string>("DefaultFromEmail") ?? string.Empty;
     }
 
     public static void AddDatabase(this WebApplicationBuilder builder)
@@ -48,5 +54,12 @@ public static class BuilderExtension
                 };
             });
         builder.Services.AddAuthorization();
+    }
+
+    public static void AddMediator(this WebApplicationBuilder builder)
+    {
+        builder.Services.AddMediatR(x => 
+            x.RegisterServicesFromAssembly(typeof(Configuration)
+                .Assembly));
     }
 }

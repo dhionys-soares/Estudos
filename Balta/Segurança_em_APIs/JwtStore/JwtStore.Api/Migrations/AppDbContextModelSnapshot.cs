@@ -52,6 +52,11 @@ namespace JwtStore.Api.Migrations
                             b1.Property<Guid>("UserId")
                                 .HasColumnType("uniqueidentifier");
 
+                            b1.Property<string>("Address")
+                                .IsRequired()
+                                .HasColumnType("nvarchar(max)")
+                                .HasColumnName("Email");
+
                             b1.HasKey("UserId");
 
                             b1.ToTable("User");
@@ -65,7 +70,8 @@ namespace JwtStore.Api.Migrations
                                         .HasColumnType("uniqueidentifier");
 
                                     b2.Property<DateTime?>("ExpiresAt")
-                                        .HasColumnType("datetime2");
+                                        .HasColumnType("datetime2")
+                                        .HasColumnName("EmailVerificationExpiresAt");
 
                                     b2.Property<DateTime?>("VerifiedAt")
                                         .HasColumnType("datetime2")

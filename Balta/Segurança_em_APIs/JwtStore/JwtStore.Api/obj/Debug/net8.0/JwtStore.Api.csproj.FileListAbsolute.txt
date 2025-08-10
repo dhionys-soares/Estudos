@@ -167,3 +167,15 @@ C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\obj\Debug\net8.0\r
 C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\obj\Debug\net8.0\JwtStore.Api.pdb
 C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\obj\Debug\net8.0\JwtStore.Api.genruntimeconfig.cache
 C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\obj\Debug\net8.0\ref\JwtStore.Api.dll
+C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Flunt.dll
+C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\MediatR.dll
+C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\SendGrid.dll
+C:\dev\Estudos\Balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\dev\Estudos\balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\dev\Estudos\balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\dev\Estudos\balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\dev\Estudos\balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\dev\Estudos\balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\dev\Estudos\balta\Segurança_em_APIs\JwtStore\JwtStore.Api\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
