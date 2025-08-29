@@ -7,7 +7,7 @@ builder.AddDatabase();
 builder.AddJwtAuthentication();
 
 builder.AddAccountContext();
-builder.AddMediator();  
+builder.AddMediator();
 
 var app = builder.Build();
 app.UseHttpsRedirection();
@@ -17,5 +17,6 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapAccountEndpoints();
-
+app.MapGet("/", () =>
+    builder.Configuration.GetConnectionString("DefaultConnection"));
 app.Run();
