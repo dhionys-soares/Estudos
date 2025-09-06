@@ -1,0 +1,16 @@
+C:\dev\Estudos\balta\mediator\Mediator\bin\Debug\net8.0\Mediator.deps.json
+C:\dev\Estudos\balta\mediator\Mediator\bin\Debug\net8.0\Mediator.dll
+C:\dev\Estudos\balta\mediator\Mediator\bin\Debug\net8.0\Mediator.pdb
+C:\dev\Estudos\balta\mediator\Mediator\bin\Debug\net8.0\Mediator.Abstractions.dll
+C:\dev\Estudos\balta\mediator\Mediator\bin\Debug\net8.0\Mediator.Abstractions.pdb
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.csproj.AssemblyReference.cache
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfoInputs.cache
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfo.cs
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.sourcelink.json
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.csproj.Up2Date
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.dll
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\refint\Mediator.dll
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\Mediator.pdb
+C:\dev\Estudos\balta\mediator\Mediator\obj\Debug\net8.0\ref\Mediator.dll

@@ -1,0 +1,12 @@
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\bin\Debug\net8.0\Mediator.Abstractions.deps.json
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\bin\Debug\net8.0\Mediator.Abstractions.dll
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\bin\Debug\net8.0\Mediator.Abstractions.pdb
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\Mediator.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\Mediator.Abstractions.AssemblyInfoInputs.cache
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\Mediator.Abstractions.AssemblyInfo.cs
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\Mediator.Abstractions.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\Mediator.Abstractions.sourcelink.json
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\Mediator.Abstractions.dll
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\refint\Mediator.Abstractions.dll
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\Mediator.Abstractions.pdb
+C:\dev\Estudos\balta\mediator\Mediator.Abstractions\obj\Debug\net8.0\ref\Mediator.Abstractions.dll

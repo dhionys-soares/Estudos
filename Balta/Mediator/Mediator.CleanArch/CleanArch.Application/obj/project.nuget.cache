@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YxQNn+PakXg=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Estudos\\Balta\\Mediator\\Mediator.CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhiso\\.nuget\\packages\\mediator.dhionys\\1.0.0\\mediator.dhionys.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

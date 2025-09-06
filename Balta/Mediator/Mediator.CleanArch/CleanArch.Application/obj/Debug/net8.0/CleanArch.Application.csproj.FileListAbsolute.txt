@@ -1,0 +1,13 @@
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.sourcelink.json
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+C:\dev\Estudos\balta\Mediator\Mediator.CleanArch\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll

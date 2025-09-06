@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "auEjkceefAE=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Estudos\\Balta\\Mediator\\Mediator\\Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhiso\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
