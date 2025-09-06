@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Mediator.Dhionys/1.0.0": {
+      "Mediator.Dhionys/1.0.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/Mediator.Dhionys.dll": {}
@@ -21,10 +21,10 @@
     }
   },
   "libraries": {
-    "Mediator.Dhionys/1.0.0": {
-      "sha512": "IyMOWJLvkBo2u/zeMI2qlqqVxCsmZ8RfzGWrmWzE5S28nejgbyXjWR9CUVOTPDlcMh/2t4zFQcypPSNZHtDFsQ==",
+    "Mediator.Dhionys/1.0.1": {
+      "sha512": "WsVb5qq241oKC3xtQ0gKNFsveSLpFPcF7swntJJRXF4M9yE1mxcepmQzwvnyJ/Q8lV9n3RSLCA1/sudFbBMEeg==",
       "type": "package",
-      "path": "mediator.dhionys/1.0.0",
+      "path": "mediator.dhionys/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -32,14 +32,14 @@
         "contentFiles/any/net8.0/.github/workflows/main.yml",
         "icon.png",
         "lib/net8.0/Mediator.Dhionys.dll",
-        "mediator.dhionys.1.0.0.nupkg.sha512",
+        "mediator.dhionys.1.0.1.nupkg.sha512",
         "mediator.dhionys.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Mediator.Dhionys >= 1.0.0"
+      "Mediator.Dhionys >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -89,7 +89,7 @@
         "dependencies": {
           "Mediator.Dhionys": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.0.1, )"
           }
         },
         "imports": [

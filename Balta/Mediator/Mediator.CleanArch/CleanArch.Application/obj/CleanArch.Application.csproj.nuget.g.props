@@ -13,9 +13,9 @@
     <SourceRoot Include="C:\Users\dhiso\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)mediator.dhionys\1.0.0\contentFiles\any\net8.0\.github\workflows\main.yml" Condition="Exists('$(NuGetPackageRoot)mediator.dhionys\1.0.0\contentFiles\any\net8.0\.github\workflows\main.yml')">
+    <Content Include="$(NuGetPackageRoot)mediator.dhionys\1.0.1\contentFiles\any\net8.0\.github\workflows\main.yml" Condition="Exists('$(NuGetPackageRoot)mediator.dhionys\1.0.1\contentFiles\any\net8.0\.github\workflows\main.yml')">
       <NuGetPackageId>Mediator.Dhionys</NuGetPackageId>
-      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetPackageVersion>1.0.1</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>

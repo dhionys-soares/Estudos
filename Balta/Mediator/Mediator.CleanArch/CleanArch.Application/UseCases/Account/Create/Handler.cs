@@ -1,4 +1,4 @@
-﻿using Mediator.Abstractions.Dhionys;
+﻿using Mediator.Dhionys;
 
 namespace CleanArch.Application.UseCases.Account.Create;
 
