@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGbtwXZOvQc=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Estudos\\Balta\\CleanArch_na_pratica\\CleanStore\\CleanStore.Domain\\CleanStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhiso\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\bin\Debug\net8.0\CleanStore.Domain.deps.json
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\bin\Debug\net8.0\CleanStore.Domain.dll
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\bin\Debug\net8.0\CleanStore.Domain.pdb
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.csproj.AssemblyReference.cache
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.AssemblyInfoInputs.cache
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.AssemblyInfo.cs
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.sourcelink.json
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.dll
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\refint\CleanStore.Domain.dll
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\CleanStore.Domain.pdb
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Domain\obj\Debug\net8.0\ref\CleanStore.Domain.dll

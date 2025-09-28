@@ -1,0 +1,16 @@
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\bin\Debug\net8.0\CleanStore.Application.deps.json
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\bin\Debug\net8.0\CleanStore.Application.dll
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\bin\Debug\net8.0\CleanStore.Application.pdb
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\bin\Debug\net8.0\CleanStore.Domain.dll
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\bin\Debug\net8.0\CleanStore.Domain.pdb
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.csproj.AssemblyReference.cache
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.AssemblyInfoInputs.cache
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.AssemblyInfo.cs
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.csproj.CoreCompileInputs.cache
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.sourcelink.json
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanSto.F49EBB1A.Up2Date
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.dll
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\refint\CleanStore.Application.dll
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\CleanStore.Application.pdb
+C:\dev\Estudos\balta\CleanArch_na_pratica\CleanStore\CleanStore.Application\obj\Debug\net8.0\ref\CleanStore.Application.dll
