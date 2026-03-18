@@ -55,8 +55,7 @@
               "RelativeToolTip": "Dima.Web\\Pages\\Orders\\Confirm.razor.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwC0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:33:26.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:33:26.881Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Dima.Api\\Endpoints\\Orders\\PayOrderEndpoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:24:51.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:24:51.389Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Dima.Api\\Handlers\\OrderHandler.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAuwJ0AAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:22:46.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:22:46.201Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Dima.core\\Requests\\Orders\\PayOrderRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:21:53.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:21:53.978Z"
             }
           ]
         }
